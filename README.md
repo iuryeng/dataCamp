@@ -1,4 +1,4 @@
 # dataCamp
 
-Trilhas de aprendizado em ciência de dados.
+Trilhas de aprendizado em ciência de dados com Python.
 
